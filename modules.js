@@ -1,5 +1,1 @@
-const Vue = window.Vue
-
-export {
-    Vue,
-}
+export const Vue = window['Vue']
